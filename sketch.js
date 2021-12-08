@@ -27,14 +27,14 @@ function setup() {
   };
  
   var ball_options = {
-    //write a code to set value of restitution such that:
-//Ball (white circle) bounces more when it hits the bottom.
+    // escribir el código para establecer el valor de 
+    // la bola (círculo blanco) rebote más cuando golpee el fondo. 
 
   }
 
   var rock_options = {
-   // write a code to set value of restitution such that:
-   // Rock (Red Circle) bounces less when it hits the bottom.
+   // escribir el código para establecer el valor de 
+   // la roca (círculo rojo) rebote menos cuando golpee el fondo
   }
    
   btn2 = createImg('up.png');
@@ -74,7 +74,7 @@ pop();
 
 function vForce()
 {
- //write a code to move ball up when the button is clicked.
+ // escribir el código para mover la bola hacia arriba al hacer clic en el botón
 }
 
 
